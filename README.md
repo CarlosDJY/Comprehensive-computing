@@ -1,2 +1,2 @@
 # Comprehensive-computing
- Collection for papers, notes and projects.
+ Collection for papers, notes and projects.  
